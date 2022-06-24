@@ -1,4 +1,4 @@
-FROM h2oai/h2o-open-source-k8s
+FROM h2oai/h2o-open-source-k8s:3.34.0.3
 
 MAINTAINER rajesh.r6r@gmail.com
 
